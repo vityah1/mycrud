@@ -1,5 +1,5 @@
 # mycrud
-Very simple CRUD flask app with SQLLite batabase and some tests on pyTest
+Very simple CRUD flask app with SQLLite database and some tests on pyTest
 
 For app you need install all requirements.txt [pip install Flask]
 For tests you need install pytest [pip install pytest]
